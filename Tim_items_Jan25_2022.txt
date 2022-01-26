@@ -1,10 +1,5 @@
 
-Thanks!
+Hello!
 
 Tim Phan
-Azure Developer | Software Engineer
-RiVidium Inc
-Defense Information Systems Agency
-Office: 703.336.3900 ext. 114
-Mobile: 571.331.7742
-tim.phan@triplecyber.com
+Azure Developer
